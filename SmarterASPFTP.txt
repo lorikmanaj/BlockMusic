@@ -1,0 +1,11 @@
+   Hosting Account ID: 	lorikmanaj-001
+      First Website Root Folder Name: 	BlockMusicAPI
+      First Website Type: 	ASP.NET
+      Hosting Plan Name: 	W60-EU
+       	
+       	Please Record The Following FTP Infomation:
+      FTP Address : 	FTP-EU.SITE4NOW.NET
+      FTP Username : 	lorikmanaj-001
+      FTP Password : 	(same as your control panel password)
+      FTP Directory 	\
+       	
